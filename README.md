@@ -4,6 +4,10 @@
 
 ### 317 tiny apps & games. Single HTML files. Zero install. Zero ads. Zero tracking.
 
+Made with **[Masala](https://github.com/samosa-ai-com/Masala-AI-Launcher)**, the AI launcher for Android: each one written in a single shot from one request by Muse Spark Open 1026, Meta's open-weight model.
+
+[![317 apps and games, made with Masala](og.png)](https://samosa-ai-com.github.io/awesome-mobile-apps/)
+
 ![files](https://img.shields.io/badge/files-317-blue)
 ![size](https://img.shields.io/badge/size-8.5%20MB-green)
 ![offline](https://img.shields.io/badge/offline-100%25-success)
@@ -11,9 +15,13 @@
 
 **No install · No ads · No accounts · No tracking · Works in airplane mode ✈️**
 
+**▶️ [Play them in your browser →](https://samosa-ai-com.github.io/awesome-mobile-apps/)**
+
 </div>
 
 ---
+
+> **Want the full experience?** [Masala](https://github.com/samosa-ai-com/Masala-AI-Launcher) has all 317 built in, on your home screen. Change any of them by asking, or ask out loud for one that doesn't exist yet.
 
 Copy any file to a phone and open it — it just runs. Each app is one
 self-contained `.html` file (8.5 MB for the whole collection), saves its own data
@@ -27,13 +35,13 @@ to phone home to.
 | **Browse** | Open [`index.html`](index.html) in any browser — search, filter by topic, tap **Open app** |
 | **Single file** | Grab any `.html` under [`games/`](games) or [`apps/`](apps) — message it, email it, keep it in Downloads |
 | **Whole collection** | Clone this repo, or download as ZIP and unzip on the phone |
-| **GitHub Pages** | Settings → Pages → Deploy from branch → open the site URL |
+| **GitHub Pages** | **▶️ [Play them in your browser](https://samosa-ai-com.github.io/awesome-mobile-apps/) — search, tap, play** |
 
 > Tip: on Android, open a file with Chrome → menu → **Add to Home screen** for an app-like icon.
 
 ## ✨ What's inside
 
-292 games + 25 everyday tools, all mobile-first portrait layouts with
+292 games + 25 everyday tools, all portrait phone layouts with
 thumb-sized touch controls, readable without zoom, progress and settings saved
 on-device. Sound (where present) is synthesized in-page with a mute toggle —
 no audio files, no autoplay.
@@ -73,6 +81,16 @@ tap a cell, tap a number. Done. No tutorial needed, no permissions asked.
 
 Every entry in the gallery carries a short description plus a
 **How to play** expander, so nothing is a mystery box.
+
+## ⭐ Featured
+
+A dozen worth opening without thinking —
+[try them all](https://samosa-ai-com.github.io/awesome-mobile-apps/).
+
+| | | | | | |
+|---|---|---|---|---|---|
+| [![NightCycle Sleep](thumbs/apps/health/sleep-calculator.webp)](https://samosa-ai-com.github.io/awesome-mobile-apps/#sleep-calculator) | [![Focus Flow Timer](thumbs/apps/tools/pomodoro-plus.webp)](https://samosa-ai-com.github.io/awesome-mobile-apps/#pomodoro-plus) | [![GoalMint Saver](thumbs/apps/money/savings-goal.webp)](https://samosa-ai-com.github.io/awesome-mobile-apps/#savings-goal) | [![Flood Party](thumbs/games/puzzle/flood.webp)](https://samosa-ai-com.github.io/awesome-mobile-apps/#flood) | [![Carnival Sprint](thumbs/games/sports/horse-racing.webp)](https://samosa-ai-com.github.io/awesome-mobile-apps/#horse-racing) | [![Chess](thumbs/games/card-board/classic-chess.webp)](https://samosa-ai-com.github.io/awesome-mobile-apps/#classic-chess) |
+| [![Four in a Row](thumbs/games/arcade/four-in-a-row.webp)](https://samosa-ai-com.github.io/awesome-mobile-apps/#four-in-a-row) | [![Specificity Wars](thumbs/games/learning-quests/specificity-wars.webp)](https://samosa-ai-com.github.io/awesome-mobile-apps/#specificity-wars) | [![Sky Striker](thumbs/games/shooter/little-bee.webp)](https://samosa-ai-com.github.io/awesome-mobile-apps/#little-bee) | [![Souk Surge](thumbs/games/strategy/bazaar.webp)](https://samosa-ai-com.github.io/awesome-mobile-apps/#bazaar) | [![Pocket Pixel-8](thumbs/games/simulation/pico-life.webp)](https://samosa-ai-com.github.io/awesome-mobile-apps/#pico-life) | [![Storm Trading Lab](thumbs/games/finance/market-pulse.webp)](https://samosa-ai-com.github.io/awesome-mobile-apps/#market-pulse) |
 
 ## 💡 Why this exists
 
