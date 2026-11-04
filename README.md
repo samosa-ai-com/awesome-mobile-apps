@@ -4,10 +4,10 @@
 
 ### 317 tiny apps & games. Single HTML files. Zero install. Zero ads. Zero tracking.
 
-[![files](https://img.shields.io/badge/files-317-blue)]()
-[![size](https://img.shields.io/badge/size-8.5%20MB-green)]()
-[![offline](https://img.shields.io/badge/offline-100%25-success)]()
-[![license](https://img.shields.io/badge/license-MIT-lightgrey)]()
+![files](https://img.shields.io/badge/files-317-blue)
+![size](https://img.shields.io/badge/size-8.5%20MB-green)
+![offline](https://img.shields.io/badge/offline-100%25-success)
+[![license](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
 **No install · No ads · No accounts · No tracking · Works in airplane mode ✈️**
 
