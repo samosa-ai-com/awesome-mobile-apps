@@ -4,6 +4,10 @@
 
 ### 317 tiny apps & games. Single HTML files. Zero install. Zero ads. Zero tracking.
 
+Made with **[Masala](https://github.com/samosa-ai-com/Masala-AI-Launcher)**, the AI launcher for Android: each one written in a single shot from one request by Muse Spark Open 1026, Meta's open-weight model.
+
+[![317 apps and games, made with Masala](og.png)](https://samosa-ai-com.github.io/awesome-mobile-apps/)
+
 ![files](https://img.shields.io/badge/files-317-blue)
 ![size](https://img.shields.io/badge/size-8.5%20MB-green)
 ![offline](https://img.shields.io/badge/offline-100%25-success)
