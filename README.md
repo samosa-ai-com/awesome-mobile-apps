@@ -21,6 +21,8 @@ Made with **[Masala](https://github.com/samosa-ai-com/Masala-AI-Launcher)**, the
 
 ---
 
+> **Want the full experience?** [Masala](https://github.com/samosa-ai-com/Masala-AI-Launcher) has all 317 built in, on your home screen. Change any of them by asking, or ask out loud for one that doesn't exist yet.
+
 Copy any file to a phone and open it — it just runs. Each app is one
 self-contained `.html` file (8.5 MB for the whole collection), saves its own data
 on-device with `localStorage`, and talks to no server, because there is nothing
