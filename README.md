@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📱 Awesome Pocket Apps
+# 📱 Awesome Mobile Apps
 
 ### 317 tiny apps & games. Single HTML files. Zero install. Zero ads. Zero tracking.
 
